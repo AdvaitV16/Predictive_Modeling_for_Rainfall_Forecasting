@@ -25,7 +25,7 @@ This project explores the use of machine learning to predict daily rainfall. It 
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/ZeR0-DaWn/Predictive_Modeling_for_Rainfall_Forecasting.git
+    git clone https://github.com/AdvaitV16/Predictive_Modeling_for_Rainfall_Forecasting.git
     
 2.  Install the required dependencies:
     ```bash
