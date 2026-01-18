@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores the use of machine learning to predict daily rainfall. It involves a complete data science workflow, from cleaning and preprocessing a large meteorological dataset to building, evaluating, and comparing different classification models. The primary goal is to accurately predict whether it will rain on a given day based on various weather parameters.
+This project explores the use of machine learning to predict daily rainfall. It involves a complete data science workflow, from cleaning and preprocessing a large meteorological dataset to building, evaluating, and comparing different classification and regression models. The primary goal is to accurately predict whether it will rain on a given day based on various weather parameters.
 
 ## Features
 
